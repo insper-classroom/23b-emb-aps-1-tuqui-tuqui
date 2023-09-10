@@ -1,4 +1,5 @@
 // got
+#include "notas.h"
 musica got = {
 	.nome = "Game of Th",
 	.tempo = 200,

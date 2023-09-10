@@ -1,4 +1,6 @@
 // asa branca
+#include "notas.h"
+
 musica asa_branca = {
 	.nome = "Asa branca",
 	.tempo = 200,

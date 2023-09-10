@@ -1,4 +1,6 @@
 // Brahms Lullaby
+#include "notas.h"
+
 musica lullaby = {
 	.nome = "B. Lullaby",
 	.tempo = 76,
