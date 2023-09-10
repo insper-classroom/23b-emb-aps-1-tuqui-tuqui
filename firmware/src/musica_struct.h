@@ -1,4 +1,6 @@
 // struct para musica
+#include guard
+
 typedef struct {
 	char nome[20];
 	int tempo;
